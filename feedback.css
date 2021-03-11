@@ -1,0 +1,26 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #f2f6e9;
+  }
+  /*--- navigation bar ---*/
+  .navbar {
+    background:black;
+  }
+  .nav-link,
+  .navbar-brand {
+    color: #fff;
+    cursor: pointer;
+  }
+  .nav-link {
+    margin-right: 1em !important;
+  }
+  .nav-link:hover {
+    color: grey;
+  }
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+  .feedback-error {
+    
+  }

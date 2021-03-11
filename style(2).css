@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700&display=swap');
+
+body{
+	overflow-x: hidden;
+	font-family: 'Lato', sans-serif;
+	color: #000000;
+}
+
+.col-12 .ml-md-auto a {
+	color: #0c75de;
+	font-weight: 900;
+}
+
+
+.big_title{
+	text-transform: none;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 0px;
+}
+
+/*--- Bootstrap Padding Fix --*/
+[class*="col-"] {
+    padding: 1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
