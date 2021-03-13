@@ -1,4 +1,4 @@
-# money-literacy-system
+# Money Literacy System
 
 Money Literacy System is a system software that helps to educate the primary school students in Cyberjaya between standard 4 to standard 6 to learn about the purpose of money literacy and how to manage it easily and how to use it in their daily life. This project was contributed by Muhammad Farazi Abadi Bin Yusoff, Nuranis Azureen Binti Ramli, Law JunWei and Tang Yik Liang. In addition, this system has include some basic features and might not fully function as per expectation.
 
