@@ -14,7 +14,7 @@ Money Literacy System is a system software that helps to educate the primary sch
 1. Download the source code into your machine.
 2. Extract the zip file.
 3. Drag the folder into htdocs folder.
-4. Open your XAMPP application to enable Apache and MySQL.
+4. Open your XAMPP application to activate Apache and MySQL.
 5. Open any web browser and type `localhost/phpmyadmin` to create a database called moneyliteracy.
 6. Import the database which attached inside the folder called Database folder into your database.
 7. Open your web browser and type your URL of the folder and you are done ✨.
