@@ -20,7 +20,7 @@ Money Literacy System is a system software that helps to educate the primary sch
 7. Open your web browser and type your URL of the folder and you are done ✨.
 
 
-## Contribution
+## Contributions
 
 This project was contributed by a group of member who taking the subject, TSE2101 Software Engineering Fundamental.
 1. Muhammad Farazi Abadi Bin Yusoff
